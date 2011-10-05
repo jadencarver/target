@@ -1,0 +1,5 @@
+=Rails 3 from the Top
+
+This is a presentation I gave at the StGeorge.rb User Group
+
+The full presentation is available here: https://docs.google.com/present/view?id=dc2dn46p_40d9w8fmh5
